@@ -4,16 +4,5 @@
   "artist": "X",
   "author": "Y",
   "cover": "https://uploads.mangadex.org/covers/dbbca2b5-bdd1-4f2b-8b2e-d72bf7fd89a0/1581dee2-0ec6-4317-ab9c-44fb847d2802.jpg",
-  "chapters": {
-    "1": {
-      "title": "1",
-      "volume": "",
-      "last_updated": "1764382791",
-      "groups": {
-        "": [
-          "xxx"
-        ]
-      }
-    }
-  }
+  "chapters": {}
 }
